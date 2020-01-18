@@ -12,10 +12,8 @@
 	</script>
     <title>My Static Website</title>
   </head>
-  <body>
-    <h1>My Static Website</h1>
-    <p>
-      Hello, I'm online, and everyone can see me!
-    </p>
-  </body>
+	<body>
+		<h1>Hello World</h1>
+		<p>I'm hosted with GitHub Pages.</p>
+	</body>
 </html>
